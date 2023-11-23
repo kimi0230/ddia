@@ -1,0 +1,18 @@
+{
+    "title": "Kimi's Golang Notes",
+    "description": "My gitbook for Golang, Leetcode, Interview",
+    "author": "Kimi Tsai <kimi0230@gmail.com>",
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 36,
+            "bottom": 36
+        },
+        "headerTemplate": null,
+        "footerTemplate": null
+    }
+}
